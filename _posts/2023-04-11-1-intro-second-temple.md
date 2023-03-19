@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
-categories: resources
-tags: [documentation,sample]
+title: "1. Course Introduction and Rabbinic Judaism in the Second Temple Context"
+author: "Nathan Gibson"
+categories: sessions
+tags: [within,sample]
 image: arctic-2.jpg
 ---
 
