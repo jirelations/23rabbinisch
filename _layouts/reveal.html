@@ -12,11 +12,14 @@ layout: default
   </footer>
 </div>
 
-<script src="{{site.baseurl}}/reveal.js/lib/js/head.min.js"></script>
-<script src="{{site.baseurl}}/reveal.js/js/reveal.js"></script>
+<script src="{{site.baseurl}}/assets/reveal.js/dist/reveal.js"></script>
+  <script src="{{site.baseurl}}/assets/reveal.js/plugin/notes/notes.js"></script>
+  <script src="{{site.baseurl}}/assets/reveal.js/plugin/markdown/markdown.js"></script>
+  <script src="{{site.baseurl}}/assets/reveal.js/plugin/highlight/highlight.js"></script>
   <script>
   // this is the reveal config
     Reveal.initialize({
+      hash: true,
       center: false,
       controls: false,
       transition: 'fade',
@@ -24,6 +27,7 @@ layout: default
       height: '100%',
       margin: 0,
       history: true,
-      slideNumber: true
+      slideNumber: true,
+      plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
     });
-  </script>
+  </script>  
