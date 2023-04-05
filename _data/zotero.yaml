@@ -922,6 +922,19 @@ references:
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0006
 
+- id: hezserSocialStructureRabbinic1997
+  author:
+    - family: Hezser
+      given: Catherine
+  citation-key: hezserSocialStructureRabbinic1997
+  collection-title: Texte und Studien zum antiken Judentum
+  ISBN: 978-3-16-146797-4
+  issued:
+    - year: 1997
+  publisher: Mohr Siebeck
+  title: The social structure of the rabbinic movement in Roman Palestine
+  type: book
+
 - id: khanJudaeoArabicJudaeoPersian2004
   abstract: >-
     The term ‘Judaeo-Arabic’ refers to a type of Arabic that was used by Jews
