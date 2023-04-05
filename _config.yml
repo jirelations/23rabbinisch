@@ -5,6 +5,7 @@ paginate:            5
 
 # Build settings
 markdown:            kramdown
+exclude:             ["README.md"]
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
@@ -21,3 +22,6 @@ author:              "Nathan Gibson"
 
 hide_related_posts: true
 hide_post_share: true
+
+# baseurl: "/23interkulturelle/web" # the subpath of your site, e.g. /blog
+# url: "http://jirelations.pages.gwdg.de" # the base hostname & protocol for your site
