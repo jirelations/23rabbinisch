@@ -1,5 +1,59 @@
 ---
 references:
+- id: adelmanMidrasch2016
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Adelman
+      given: Rachel
+  citation-key: adelmanMidrasch2016
+  container-title: Enzyklopädie jüdischer Geschichte und Kultur
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2016
+      month: 10
+      day: 1
+  language: de
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de
+  title: Midrasch
+  type: chapter
+  URL: >-
+    http://dx-1doi-1org-11statk71065c.proxy.fid-lizenzen.de/10.1163/2468-2845_ejgk_COM_0542
+
+- id: adelmanMidrash2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Adelman
+      given: Rachel
+  citation-key: adelmanMidrash2017
+  container-title: Encyclopedia of Jewish History and Culture Online
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+      month: 8
+      day: 9
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de
+  title: Midrash
+  type: chapter
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de/entries/encyclopedia-of-jewish-history-and-culture/midrash-COM_0542
+
 - id: alexanderTextualSourcesStudy1990a
   accessed:
     - year: 2022
@@ -34,22 +88,22 @@ references:
      of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
      individual studies on Asia Minor, but also through conceptional considerations. In
      summary, the editors offer new terminology suggestions
-  author:
-    - family: Alkier
-      given: Stefan
-    - family: Leppin
-      given: Hartmut
   call-number: >-
     Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
     Magasin - 2018-68403
   citation-key: alkierJudenChristenHeiden2018a
   collection-number: '400'
   collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
   event-place: Tübingen
   ISBN: 978-3-16-153706-6
   issued:
     - year: 2018
-  language: ger
+  language: de
   note: >-
     ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
     anglais. Bibliogr. en fin de contributions.
@@ -59,10 +113,57 @@ references:
   publisher-place: Tübingen
   source: BnF Catalogue général (http:// catalogue.bnf.fr)
   title: >-
-    Juden, Christen, Heiden? :  religiöse Inklusion und Exklusion in Kleinasien
-    bis Decius
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
   title-short: Juden, Christen, Heiden?
   type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: alkierTerminologienKollektiverIdentitaeten2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Alkier
+      given: Stefan
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: alkierTerminologienKollektiverIdentitaeten2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 301-332
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Terminologien kollektiver Identitäten in der Apostelgeschichte des Lukas
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
 - id: beckerWaysThatNever2003a
   call-number: 13.219.31
@@ -85,6 +186,51 @@ references:
   source: UBFFM ZB
   title: The ways that never parted
   type: book
+
+- id: boehmSamaritanischeDiasporaIm2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Böhm
+      given: Martina
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: boehmSamaritanischeDiasporaIm2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 171-196
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Samaritanische Diaspora im Imperium Romanum bis ca. 200 n. Chr.
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
 - id: boustanraananAfterwordRabbinizationPersistence2021
   accessed:
@@ -205,6 +351,88 @@ references:
   title: Semantic differences; or, "Judaism"/"Christianity"
   type: chapter
 
+- id: brodyVarietiesNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Brody
+      given: Robert
+  citation-key: brodyVarietiesNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.05
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 139–152
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Varieties of Non-Rabbinic Judaism in Geonic and Contemporaneous Sources
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.05.pdf
+
+- id: claussenIdentitaetAntikjuedischerGemeinden2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Claußen
+      given: Carsten
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: claussenIdentitaetAntikjuedischerGemeinden2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 275-300
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Die Identität antik-jüdischer Gemeinden in Kleinasien im Spiegel von
+    Rechtstexten. Das Beispiel Sardes
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
 - id: cohenJudaeanLegalTradition2007
   accessed:
     - year: 2023
@@ -316,6 +544,78 @@ references:
   URL: >-
     https://academic-oup-com.proxy.ub.uni-frankfurt.de/edited-volume/38625/chapter/335224666
 
+- id: costaRemarksNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Costa
+      given: José
+  citation-key: costaRemarksNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.03
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 67–118
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    Some Remarks about Non-Rabbinic Judaism, Rabbinization, and Synagogal
+    Judaism
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.03.pdf
+
+- id: dinerEncyclopediaJewishHistory
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: dinerEncyclopediaJewishHistory
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  ISSN: 2468-8894
+  publisher: Brill
+  publisher-place: Leiden
+  title: Encyclopedia of Jewish History and Culture Online
+  type: book
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de/browse/encyclopedia-of-jewish-history-and-culture
+
+- id: dinerEnzyklopadieJudischerGeschichte
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: dinerEnzyklopadieJudischerGeschichte
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  publisher: Brill
+  publisher-place: Leiden
+  title: Enzyklopädie jüdischer Geschichte und Kultur
+  type: book
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk71065c.proxy.fid-lizenzen.de/browse/enzyklopaedie-judischer-geschichte-und-kultur
+
 - id: dunnChristiansShapingIdentity2015a
   call-number: >-
     Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
@@ -381,6 +681,41 @@ references:
   type: chapter
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/middle-persian-culture-and-babylonian-sages-accommodation-and-resistance-in-the-shaping-of-rabbinic-legal-tradition/F1B8D703DDB7F1CB6E89816465C56887
+
+- id: erderKaraitesSadducees2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Erder
+      given: Yoram
+  citation-key: erderKaraitesSadducees2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.06
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 153–164
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Karaites and Sadducees
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.06.pdf
 
 - id: flowerRhetoricReligiousIdentity2020a
   abstract: >-
@@ -579,7 +914,7 @@ references:
     Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
     Magasin - 2016-201008
   citation-key: furstenbergJewishChristianCommunal2016a
-  collection-number: volume 94
+  collection-number: '94'
   collection-title: Ancient Judaism and early Christianity
   editor:
     - family: Furstenberg
@@ -880,6 +1215,41 @@ references:
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/other-in-rabbinic-literature/20B038995CFCB606BA4D3740DA516DEB
 
+- id: hermanSearchNonRabbinicJudaism2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Herman
+      given: Geoffrey
+  citation-key: hermanSearchNonRabbinicJudaism2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.04
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 121–138
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: In Search of Non-Rabbinic Judaism in Sasanian Babylonia
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.04.pdf
+
 - id: hezserClassicalRabbinicLiterature2004
   abstract: >-
     Classical rabbinic literature comprises all those ancient Jewish literary
@@ -1025,6 +1395,69 @@ references:
   URL: https://www.mohrsiebeck.com/10.1628/jsq-2023-0003
   volume: '30'
 
+- id: laskerKaraism2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Lasker
+      given: Daniel J.
+    - family: Beinin
+      given: Joel
+  citation-key: laskerKaraism2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Karaism
+  type: chapter
+  URL: >-
+    http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0012630
+
+- id: levineDiversityAncientSynagogue2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Levine
+      given: Lee I.
+  citation-key: levineDiversityAncientSynagogue2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.16
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 3-32
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    Diversity in the Ancient Synagogue of Roman-Byzantine Palestine: Historical
+    Implications
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.01.pdf
+
 - id: mcdowellDiversityRabbinizationJewish2021a
   abstract: >-
     This volume is dedicated to the cultural and religious diversity in Jewish
@@ -1099,6 +1532,78 @@ references:
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.16.pdf
 
+- id: mcdowellRabbinizationNonRabbinicMaterial2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: McDowell
+      given: Gavin
+  citation-key: mcdowellRabbinizationNonRabbinicMaterial2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.13
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 381–412
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Rabbinization of Non-Rabbinic Material in Pirqe de-Rabbi Eliezer
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.13.pdf
+
+- id: naiweldRabbinizationTractatesPropagation2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Naiweld
+      given: Ron
+  citation-key: naiweldRabbinizationTractatesPropagation2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.11
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 339–358
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: >-
+    The Rabbinization Tractates and the Propagation of Rabbinic Ideology in the
+    Late Talmudic Period
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.11.pdf
+
 - id: neusnerChaptersFormativeHistory2011a
   abstract: >-
     "This collection of seven essays draws on work done in 2010. The author
@@ -1157,6 +1662,61 @@ references:
   title: 'A short history of Judaism: three meals, three epochs'
   title-short: A short history of Judaism
   type: book
+
+- id: nicklasPartingWaysProbleme2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Nicklas
+      given: Tobias
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: nicklasPartingWaysProbleme2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 21-42
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: Parting of the Ways? Probleme eines Konzepts
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
+- id: PageTalmud
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: PageTalmud
+  title: A Page of Talmud
+  type: webpage
+  URL: https://people.ucalgary.ca/~elsegal/TalmudPage.html#Page
 
 - id: papaconstantinouConversionLateAntiquity2016a
   abstract: >-
@@ -1385,7 +1945,7 @@ references:
   type: book
   URL: https://d-nb.info/99929489X/04
 
-- id: schaeferJesusImTalmud2010a
+- id: schaeferJesusImTalmud2017
   abstract: >-
     English summary: This is a thorough investigation of the passages about
     Jesus in the rabbinic literature, mainly in the Babylonian Talmud. In his
@@ -1421,19 +1981,114 @@ references:
   author:
     - family: Schäfer
       given: Peter
-  citation-key: schaeferJesusImTalmud2010a
-  edition: '2'
+  call-number: 90.852.37
+  citation-key: schaeferJesusImTalmud2017
+  edition: 3., erneut durchgesehene Auflage
   event-place: Tübingen
-  ISBN: 978-3-16-150253-8
+  ISBN: 978-3-16-155531-2 3-16-155531-7
   issued:
-    - year: 2010
+    - year: 2017
   language: de
-  number-of-pages: '344'
   publisher: Mohr Siebeck
   publisher-place: Tübingen
-  source: Google Books
+  source: UBFFM ZB
   title: Jesus im Talmud
+  translator:
+    - family: Schäfer
+      given: Barbara
   type: book
+
+- id: schaferJesusTalmud2007
+  abstract: >-
+    Scattered throughout the Talmud, the founding document of rabbinic Judaism
+    in late antiquity, can be found quite a few references to Jesus--and they're
+    not flattering. In this lucid, richly detailed, and accessible book, Peter
+    Schafer examines how the rabbis of the Talmud read, understood, and used the
+    New Testament Jesus narrative to assert, ultimately, Judaism's superiority
+    over Christianity. The Talmudic stories make fun of Jesus' birth from a
+    virgin, fervently contest his claim to be the Messiah and Son of God, and
+    maintain that he was rightfully executed as a blasphemer and idolater. They
+    subvert the Christian idea of Jesus' resurrection and insist he got the
+    punishment he deserved in hell--and that a similar fate awaits his
+    followers. Schafer contends that these stories betray a remarkable
+    familiarity with the Gospels--especially Matthew and John--and represent a
+    deliberate and sophisticated anti-Christian polemic that parodies the New
+    Testament narratives. He carefully distinguishes between Babylonian and
+    Palestinian sources, arguing that the rabbis' proud and self-confident
+    countermessage to that of the evangelists was possible only in the unique
+    historical setting of Persian Babylonia, in a Jewish community that lived in
+    relative freedom. The same could not be said of Roman and Byzantine
+    Palestine, where the Christians aggressively consolidated their political
+    power and the Jews therefore suffered. A departure from past scholarship,
+    which has played down the stories as unreliable distortions of the
+    historical Jesus, "Jesus in the Talmud" posits a much more deliberate agenda
+    behind these narratives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Schäfer
+      given: Peter
+  citation-key: schaferJesusTalmud2007
+  event-place: Princeton
+  ISBN: 978-1-4008-2761-9
+  issued:
+    - year: 2007
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: ProQuest Ebook Central
+  title: Jesus in the Talmud
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D445541
+
+- id: schaferJesusTalmudCh2007
+  abstract: >-
+    Scattered throughout the Talmud, the founding document of rabbinic Judaism
+    in late antiquity, can be found quite a few references to Jesus--and they're
+    not flattering. In this lucid, richly detailed, and accessible book, Peter
+    Schafer examines how the rabbis of the Talmud read, understood, and used the
+    New Testament Jesus narrative to assert, ultimately, Judaism's superiority
+    over Christianity. The Talmudic stories make fun of Jesus' birth from a
+    virgin, fervently contest his claim to be the Messiah and Son of God, and
+    maintain that he was rightfully executed as a blasphemer and idolater. They
+    subvert the Christian idea of Jesus' resurrection and insist he got the
+    punishment he deserved in hell--and that a similar fate awaits his
+    followers. Schafer contends that these stories betray a remarkable
+    familiarity with the Gospels--especially Matthew and John--and represent a
+    deliberate and sophisticated anti-Christian polemic that parodies the New
+    Testament narratives. He carefully distinguishes between Babylonian and
+    Palestinian sources, arguing that the rabbis' proud and self-confident
+    countermessage to that of the evangelists was possible only in the unique
+    historical setting of Persian Babylonia, in a Jewish community that lived in
+    relative freedom. The same could not be said of Roman and Byzantine
+    Palestine, where the Christians aggressively consolidated their political
+    power and the Jews therefore suffered. A departure from past scholarship,
+    which has played down the stories as unreliable distortions of the
+    historical Jesus, "Jesus in the Talmud" posits a much more deliberate agenda
+    behind these narratives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  author:
+    - family: Schäfer
+      given: Peter
+  citation-key: schaferJesusTalmudCh2007
+  container-title: Jesus in the Talmud
+  event-place: Princeton
+  ISBN: 978-1-4008-2761-9
+  issued:
+    - year: 2007
+  page: 79-102
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  source: ProQuest Ebook Central
+  title: Jesus in the Talmud (ch. 9)
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D445541
 
 - id: schaferTalmudYerushalmiGraecoRoman1997
   citation-key: schaferTalmudYerushalmiGraecoRoman1997
@@ -1658,6 +2313,26 @@ references:
   title-short: Der Tamud
   type: book
 
+- id: stillmanEncyclopediaJewsIslamic2010a
+  accessed:
+    - year: 2023
+      month: 4
+      day: 6
+  citation-key: stillmanEncyclopediaJewsIslamic2010a
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  title: Encyclopedia of Jews in the Islamic World
+  type: book
+  URL: >-
+    https://referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de/browse/encyclopedia-of-jews-in-the-islamic-world
+
 - id: stoklbenezraWhoseFastIt2003
   author:
     - family: Stökl Ben Ezra
@@ -1683,6 +2358,76 @@ references:
   source: UBFFM ZB
   title: Whose fast is it? The Ember Day of September and Yom Kippur
   type: chapter
+
+- id: stoklbenezraWhoTargetToledot2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Stökl Ben Ezra
+      given: Daniel
+  citation-key: stoklbenezraWhoTargetToledot2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/OBP.0219.12
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 359–380
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Who is the Target of Toledot Yeshu?
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.12.pdf
+
+- id: swartzSocietySelfEarly2021
+  accessed:
+    - year: 2023
+      month: 3
+      day: 21
+  author:
+    - family: Swartz
+      given: Michael D.
+  citation-key: swartzSocietySelfEarly2021
+  collection-title: Cambridge Semitic Languages and Cultures 8
+  container-title: >-
+    Diversity and rabbinization: Jewish texts and societies between 400 and 1000
+    CE
+  DOI: 10.11647/obp.0219.02
+  editor:
+    - family: McDowell
+      given: Gavin
+    - family: Naiweld
+      given: Ron
+    - family: Stökl Ben Ezra
+      given: Daniel
+  event-place: Cambridge, U.K.
+  issued:
+    - year: 2021
+      month: 4
+      day: 30
+  language: en
+  page: 33–66
+  publisher: Open Book Publishers
+  publisher-place: Cambridge, U.K.
+  source: www.openbookpublishers.com
+  title: Society and the Self in Early Piyyut
+  type: chapter
+  URL: https://books.openbookpublishers.com/10.11647/obp.0219.02.pdf
 
 - id: szpiechConversionNarrativeReading2013a
   author:
@@ -1736,6 +2481,53 @@ references:
   title: An introduction to early Judaism
   type: book
   URL: http://www.gbv.de/dms/bowker/toc/9780802846419.pdf
+
+- id: vogelStreitNichtNur2018
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Vogel
+      given: Manuel
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: vogelStreitNichtNur2018
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 43-70
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Ein Streit nicht nur um Worte: Begriffsgeschichtliche Beobachtungen  zu
+    frühchristlichen Strategien der Exklusion
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
 
 - id: wasserstromREL152Introductiona
   author:

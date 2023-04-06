@@ -1,1 +1,0 @@
-By <a href=&quot;//commons.wikimedia.org/wiki/User:Ariely&quot; title=&quot;User:Ariely&quot;>Ariely</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4533576">Link</a>
