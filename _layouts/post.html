@@ -18,7 +18,9 @@ layout: default
           {% capture image_attribution %}
             {% include_relative {{ page.image }}-attribution.md %}
           {% endcapture %}
-          {{ image_attribution | markdownify }}
+          {{ image_attribution }}
+          <!-- Markdownify is rendering this as a code block instead of transforming MD > HTML  -->
+          <!-- {{ image_attribution | markdownify }} -->
         </figcaption>
     </figure>
     </div>
