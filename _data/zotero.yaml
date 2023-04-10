@@ -325,6 +325,32 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fdx.doi.org%2F10.1017%2FCCOL0521843901.016
 
+- id: boyarinMidrashHebrews2016
+  author:
+    - family: Boyarin
+      given: Daniel
+  call-number: 90.724.04
+  citation-key: boyarinMidrashHebrews2016
+  collection-number: '91'
+  collection-title: Ancient Judaism and early Christianity
+  container-title: Hebrews in contexts
+  editor:
+    - family: Gelardini
+      given: Gabriella
+    - family: Attridge
+      given: Harold W.
+  event-place: Leiden ; Boston
+  ISBN: 978-90-04-31168-8 978-90-04-31169-5
+  issued:
+    - year: 2016
+  language: en
+  page: 15–30
+  publisher: Brill
+  publisher-place: Leiden ; Boston
+  source: Library of Congress ISBN
+  title: Midrash in Hebrews
+  type: chapter
+
 - id: boyarinSemanticDifferencesJudaism2003
   author:
     - family: Boyarin
@@ -350,6 +376,58 @@ references:
   source: UBFFM ZB
   title: Semantic differences; or, "Judaism"/"Christianity"
   type: chapter
+
+- id: breuerAramaic2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Breuer
+      given: Yochanan
+  citation-key: breuerAramaic2017
+  container-title: Encyclopedia of Jewish History and Culture Online
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+      month: 8
+      day: 3
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de
+  title: Aramaic
+  type: chapter
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de/entries/encyclopedia-of-jewish-history-and-culture/aramaic-COM_0044
+
+- id: breuerAramaisch2017
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Breuer
+      given: Yochanan
+  citation-key: breuerAramaisch2017
+  container-title: Enzyklopädie jüdischer Geschichte und Kultur
+  editor:
+    - family: Diner
+      given: Dan
+  event-place: Leiden
+  issued:
+    - year: 2017
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de
+  title: Aramäisch
+  type: chapter
+  URL: >-
+    https://referenceworks-1brillonline-1com-11statk7106fb.proxy.fid-lizenzen.de/entries/enzyklopaedie-judischer-geschichte-und-kultur/aramaisch-COM_0044
 
 - id: brodyVarietiesNonRabbinicJudaism2021
   accessed:
@@ -385,6 +463,44 @@ references:
   title: Varieties of Non-Rabbinic Judaism in Geonic and Contemporaneous Sources
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.05.pdf
+
+- id: buttsHistorySlaveChrist2017a
+  abstract: >-
+    "The History of the 'Slave of Christ' : From Jewish Child to Christian
+    Martyr offers the first critical editions and English translations of the
+    two Syriac recensions of this fascinating text, which narrates the story of
+    a young Jewish child, Asher, who after converting to Christianity and taking
+    the name ʻAbda da-Miḥa ('slave of Christ') is martyred by his father Levi in
+    a scene reminiscent of Abraham's offering of Isaac in Genesis 22. In a
+    detailed introduction, the authors argue that the text is a fictional story
+    composed during the early Islamic period (ca. 650-850) probably in Shigar
+    (modern Sinjār). Building upon methodology from the study of Western
+    Christian and Jewish texts, they further contend that the story's author
+    constructs an imagined Jew based on the Hebrew Bible, thereby challenging
+    the way that previous scholars have used this text as straightforward
+    evidence for historical interactions between Jews and Christians in
+    Babylonia at this time. This ultimately allows the authors to reevaluate the
+    purpose of the text and to situate it in its Late Antique Babylonian
+    context"--
+  author:
+    - family: Butts
+      given: Michael Aaron
+    - family: Gross
+      given: Simcha
+  call-number: 21/NV 1500 B989 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: buttsHistorySlaveChrist2017a
+  event-place: Piscataway, N.J.
+  ISBN: 978-1-4632-0573-7
+  issued:
+    - year: 2017
+  language: In English and Syriac; with Syriac texts translated into English.
+  note: 'OCLC: 965922443'
+  publisher: Gorgias Press
+  publisher-place: Piscataway, N.J.
+  source: UBFFM BzG
+  title: 'The history of the ''Slave of Christ'': from Jewish child to Christian martyr'
+  title-short: The history of the 'Slave of Christ'
+  type: book
 
 - id: claussenIdentitaetAntikjuedischerGemeinden2018
   abstract: >-
@@ -580,6 +696,44 @@ references:
     Judaism
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.03.pdf
+
+- id: crownCompanionSamaritanStudies1993a
+  call-number: 80/Ih 15 37
+  citation-key: crownCompanionSamaritanStudies1993a
+  editor:
+    - family: Crown
+      given: Alan David
+    - family: Pummer
+      given: Reinhard
+    - family: Tal
+      given: Abraham
+  event-place: Tübingen
+  ISBN: 978-3-16-145666-4
+  issued:
+    - year: 1993
+  number-of-pages: '244'
+  publisher: J.C.B. Mohr (P. Siebeck)
+  publisher-place: Tübingen
+  source: UBFFM BSKW (library use only)
+  title: A companion to Samaritan studies
+  type: book
+
+- id: crownSamaritans1989
+  author:
+    - family: Crown
+      given: Alan David
+  call-number: 02/BC 8790 C953 available IG Farben-Haus, Q6, EG, Raum 621
+  citation-key: crownSamaritans1989
+  event-place: Tübingen
+  ISBN: 978-3-16-145237-6
+  issued:
+    - year: 1989
+  language: eng
+  publisher: J.C.B. Mohr
+  publisher-place: Tübingen
+  source: UBFFM BzG
+  title: The Samaritans
+  type: book
 
 - id: dinerEncyclopediaJewishHistory
   accessed:
@@ -850,6 +1004,36 @@ references:
   title: La cittadinanza sinaitica
   type: book
 
+- id: fraadeConceptsScriptureRabbinic2012
+  abstract: >-
+    3 Concepts of Scripture in Rabbinic Judaism: Oral Torah and Written Torah
+    was published in Jewish Concepts of Scripture on page 31.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Fraade
+      given: Steven D.
+  call-number: 90.227.22
+  citation-key: fraadeConceptsScriptureRabbinic2012
+  container-title: 'Jewish concepts of Scripture: a comparative introduction'
+  DOI: 10.18574/nyu/9780814740620.003.0003
+  ISBN: 978-0-8147-2479-8
+  issued:
+    - year: 2012
+      month: 10
+      day: 29
+  language: en
+  page: 31-46
+  publisher: New York University Press
+  source: UBFFM ZB
+  title: 'Concepts of Scripture in Rabbinic Judaism: Oral Torah and Written Torah'
+  title-short: 3 Concepts of Scripture in Rabbinic Judaism
+  type: chapter
+  URL: >-
+    https://www.degruyter.com/document/doi/10.18574/nyu/9780814740620.003.0003/html
+
 - id: fraadeRabbinicMidrashAncient2007
   accessed:
     - year: 2023
@@ -908,6 +1092,43 @@ references:
     What "parting of the ways"? Jews, Gentiles, and the ancient Mediterranean
     city
   type: chapter
+
+- id: freidenreichUseIslamicSources2003b
+  abstract: >-
+    Saadiah Gaon's influential translation of the Torah into Arabic has long
+    been known to contain countless "mistranslations," passages in which Saadiah
+    consciously modifies the biblical text to conform to Arabic literary style
+    or to his own beliefs and understanding of the Bible. Several of the
+    modifications found in Saadiah's "Tafsīr" derive from Islamic sources,
+    including Islamic terminology and phraseology, Islamic law and tradition,
+    and the Qur'an itself. This paper examines those passages in the "Tafsīr" of
+    the Torah which reflect Islamic influence in an attempt to understand how,
+    in a work written for a Jewish audience, Saadiah utilizes material gleaned
+    from the dominant religion of his day and why on several occasions the gaon
+    prefers Islamic interpretations over the existing rabbinic and biblical
+    alternatives.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Freidenreich
+      given: David M.
+  citation-key: freidenreichUseIslamicSources2003b
+  container-title: The Jewish Quarterly Review
+  ISSN: 0021-6682
+  issue: 3/4
+  issued:
+    - year: 2003
+  page: 353-395
+  publisher: >-
+    [University of Pennsylvania Press, Center for Advanced Judaic Studies,
+    University of Pennsylvania]
+  source: JSTOR
+  title: The Use of Islamic Sources in Saadiah Gaon's "Tafsīr" of the Torah
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/1455666
+  volume: '93'
 
 - id: furstenbergJewishChristianCommunal2016a
   call-number: >-
@@ -989,6 +1210,33 @@ references:
   title-short: The Judaic tradition
   type: book
 
+- id: goldbergMishnaStudyBook1987
+  author:
+    - family: Goldberg
+      given: Abraham
+  call-number: 80/Es 21 55 Bd 2
+  citation-key: goldbergMishnaStudyBook1987
+  collection-title: Compendia rerum Iudaicarum ad Novum Testamentum
+  container-title: >-
+    Compendia rerum Iudaicarum ad Novum Testamentum. Section 2: The Literature
+    of the Jewish people in the period of the Second Temple and the Talmud
+  editor:
+    - family: Stone
+      given: Michael E.
+    - family: Safrai
+      given: Shmuel
+  event-place: 'Assen, Netherlands : Philadelphia'
+  ISBN: 978-0-8006-0603-9 978-90-232-4222-2 978-0-8006-0606-0
+  issued:
+    - year: 1987
+  page: 211-251
+  publisher: Van Gorcum ; Fortress Press
+  publisher-place: 'Assen, Netherlands : Philadelphia'
+  source: UBFFM BSKW (library use only)
+  title: The Mishna - A Study Book of Halakha
+  type: chapter
+  volume: 3.1 The Literature of the Sages
+
 - id: goodmanJewsJudaismSecond2004
   abstract: >-
     For all Jews in this period, in both diaspora and homeland, the Jerusalem
@@ -1021,6 +1269,7 @@ references:
     - year: 2004
       month: 12
       day: 16
+  page: 36-52
   publisher: Oxford University Press
   source: Silverchair
   title: Jews and Judaism in the Second Temple Period
@@ -1087,7 +1336,7 @@ references:
   title: 'Babylonian Jewish Society: The Evidence of the Incantation Bowls'
   title-short: Babylonian Jewish Society
   type: article-journal
-  URL: https://muse.jhu.edu/article/849193
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/article/849193
   volume: '112'
 
 - id: gurtnerClarkEncyclopediaSecond2020
@@ -1305,6 +1554,48 @@ references:
   title: The social structure of the rabbinic movement in Roman Palestine
   type: book
 
+- id: kartveitTheoriesOriginSamaritans2019
+  abstract: >-
+    The article describes the different models for understanding the origin of
+    the Samaritans: the Samaritans’ own view; Flavius Josephus’ two stories; a
+    model based upon the results of the excavations of the cities of Samaria and
+    Shechem, plus information from ancient authors; new insights from the Dead
+    Sea Scrolls; and models based on the results of the Mount Gerizim
+    excavations; and the Delos inscriptions. Each of these models has its modern
+    followers in scholarship, and their various adherents are named. A last part
+    of the article is devoted to the state of the question of the origin of the
+    Samaritans. The presentation is organized according to the sources because
+    the material at hand has produced different solutions to the pertinent
+    questions. Through quoting the texts and presenting the results of the
+    excavations, the author gives the reader an opportunity to form her or his
+    own opinions, both on the different theories and on the origin of the
+    Samaritans.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Kartveit
+      given: Magnar
+  citation-key: kartveitTheoriesOriginSamaritans2019
+  container-title: Religions
+  DOI: 10.3390/rel10120661
+  ISSN: 2077-1444
+  issue: '12'
+  issued:
+    - year: 2019
+      month: 12
+  language: en
+  license: http://creativecommons.org/licenses/by/3.0/
+  number: '12'
+  page: '661'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: Theories of the Origin of the Samaritans—Then and Now
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/10/12/661
+  volume: '10'
+
 - id: khanJudaeoArabicJudaeoPersian2004
   abstract: >-
     The term ‘Judaeo-Arabic’ refers to a type of Arabic that was used by Jews
@@ -1392,8 +1683,29 @@ references:
   source: DOI.org (Crossref)
   title: Piyyut, Mishnah and Rabbinization in the Sixth to Eighth Centuries
   type: article-journal
-  URL: https://www.mohrsiebeck.com/10.1628/jsq-2023-0003
+  URL: >-
+    https://www-mohrsiebeck-com.proxy.ub.uni-frankfurt.de/artikel/piyyut-mishnah-and-rabbinization-in-the-sixth-to-eighth-centuries-101628jsq-2023-0003?no_cache=1
   volume: '30'
+
+- id: langerWurzelnMidraschUnd2016
+  author:
+    - family: Langer
+      given: Gerhard
+  call-number: 80/Eo 10 43
+  citation-key: langerWurzelnMidraschUnd2016
+  container-title: Midrasch
+  event-place: Tübingen
+  ISBN: 978-3-8252-4675-4
+  issued:
+    - year: 2016
+  page: 95-127
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: UBFFM BSKW (library use only)
+  title: >-
+    Wurzeln des Midrasch und die Entwicklung midraschischer Elemente außerhalb
+    der rabbinischen Literatur
+  type: chapter
 
 - id: laskerKaraism2010
   accessed:
@@ -1566,6 +1878,45 @@ references:
   title: Rabbinization of Non-Rabbinic Material in Pirqe de-Rabbi Eliezer
   type: chapter
   URL: https://books.openbookpublishers.com/10.11647/obp.0219.13.pdf
+
+- id: munz-manorLiturgicalPoetryLate2010
+  abstract: >-
+    The article presents a contemporary view of the study of piyyut,
+    demonstrating that Jewish poetry of late antiquity (in Hebrew and Aramaic)
+    was closely related to Christian liturgical poetry (both Syriac and Greek)
+    and Samaritan liturgy. These relations were expressed primarily by common
+    poetic and prosodic characteristics, derived on the one hand from ancient
+    Semitic poetry (mainly biblical poetry), and on the other from innovations
+    of the period. The significant connections of content between the different
+    genres of poetry reveal the importance of comparative study. Thus the poetry
+    composed in late antiquity provides additional evidence for the lively
+    cultural dialogue that took place at that time.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Münz-Manor
+      given: Ophir
+  citation-key: munz-manorLiturgicalPoetryLate2010
+  container-title: Journal of Ancient Judaism
+  DOI: 10.30965/21967954-00103005
+  ISSN: 2196-7954, 1869-3296
+  issue: '3'
+  issued:
+    - year: 2010
+      month: 5
+      day: 6
+  language: eng
+  page: 336-361
+  publisher: Brill Schöningh
+  source: brill-com.proxy.ub.uni-frankfurt.de
+  title: 'Liturgical Poetry in the Late Antique Near East: A Comparative Approach'
+  title-short: Liturgical Poetry in the Late Antique Near East
+  type: article-journal
+  URL: >-
+    https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/jaj/1/3/article-p336_5.xml
+  volume: '1'
 
 - id: naiweldRabbinizationTractatesPropagation2021
   accessed:
@@ -1756,6 +2107,33 @@ references:
   title-short: Conversion in late antiquity
   type: book
 
+- id: pearsonDryBonesJudean1998
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Pearson
+      given: Brook W.R.
+  citation-key: pearsonDryBonesJudean1998
+  container-title: >-
+    Journal for the Study of Judaism in the Persian, Hellenistic, and Roman
+    Period
+  ISSN: 0047-2212
+  issue: '2'
+  issued:
+    - year: 1998
+  page: 192-201
+  publisher: Brill
+  source: JSTOR
+  title: >-
+    Dry Bones in the Judean Desert: The Messiah of Ephraim, Ezekiel 37, and the
+    Post-Revolutionary Followers of Bar Kokhba
+  title-short: Dry Bones in the Judean Desert
+  type: article-journal
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/24668488
+  volume: '29'
+
 - id: polliackMedievalKaraism2004
   abstract: >-
     Karaism is best defined as a Jewish religious movement of a scripturalist
@@ -1796,36 +2174,6 @@ references:
   type: chapter
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780199280322.013.0012
-
-- id: rebillardChretiensAntiquiteTardive2014a
-  author:
-    - family: Rebillard
-      given: Éric
-  call-number: >-
-    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
-    Magasin - 2014-203552
-  citation-key: rebillardChretiensAntiquiteTardive2014a
-  collection-number: 127e
-  collection-title: Histoire
-  event-place: Paris
-  ISBN: 978-2-251-38127-5
-  issued:
-    - year: 2014
-  language: fre
-  note: 22 cm. Bibliogr. p. 185-217. Index.
-  number-of-pages: '235'
-  number-of-volumes: '1'
-  publisher: les Belles lettres
-  publisher-place: Paris
-  source: BnF Catalogue général (http:// catalogue.bnf.fr)
-  title: >-
-    Les chrétiens de l'Antiquité tardive et leurs identités multiples :  Afrique
-    du Nord, 200-450 après J. -C.
-  title-short: Les chrétiens de l'Antiquité tardive et leurs identités multiples
-  translator:
-    - family: Hasnaoui
-      given: Alexandre
-  type: book
 
 - id: rebillardGroupIdentityReligious2015a
   call-number: >-
@@ -1889,6 +2237,114 @@ references:
   source: Zotero
   title: 'Studies in Post-Biblical Judaism: History and Literature of Rabbinic Judaism'
   type: article-journal
+
+- id: rosen-zviOralityNarrativeRhetoric2008
+  abstract: >-
+    The appearance in recent years of an impressive series of books, articles,
+    and mainly dissertations on various aspects of the Mishnah collectively
+    signifies something greater than the sum of its parts. These works herald
+    the emergence of a new wave of Mishnah research. While differing
+    significantly in their themes and methods, all the works discussed here
+    share some basic methodological assumptions that are not shared by more
+    “traditional” studies. Among these are a holistic attitude to the Mishnah as
+    a composition; interest in questions of variegation of genre and style
+    (narratives, rituals, lists, etc.); sensitivity to literary devices and
+    techniques; and the use of new interpretive paradigms from rhetoric,
+    cultural, and performative studies.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rosen-Zvi
+      given: Ishay
+  citation-key: rosen-zviOralityNarrativeRhetoric2008
+  container-title: AJS Review
+  DOI: 10.1017/S036400940800010X
+  ISSN: 1475-4541, 0364-0094
+  issue: '2'
+  issued:
+    - year: 2008
+      month: 11
+  language: en
+  page: 235-249
+  publisher: Cambridge University Press
+  source: Cambridge University Press
+  title: 'Orality, Narrative, Rhetoric: New Directions in Mishnah Research'
+  title-short: Orality, Narrative, Rhetoric
+  type: article-journal
+  URL: >-
+    https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/journals/ajs-review/article/orality-narrative-rhetoric-new-directions-in-mishnah-research/6C778E436B824F30C5857DA7F0A044C1
+  volume: '32'
+
+- id: rosen-zviPaulInventionGentiles2015
+  abstract: >-
+    This paper studies the birth of the concept of the gentile (goy). We begin
+    by presenting an outline of a genealogy of “goy,” as a word and a concept,
+    from the Bible to rabbinic literature, and then focus on one chapter in this
+    genealogy: the meaning and use of ethnê in Paul's epistles. We claim that
+    Paul takes a crucial part in the emergence of the goy in its new,
+    non-ethnic, privatized and generalized sense. In contrast to the scholarly
+    consensus, according to which Paul's simply borrows his binary distinction
+    between Jews and ethnê from an established Jewish tradition, we show that no
+    such tradition existed, and that Paul in fact plays a key role in forming
+    this new meaning of ethnê /goyim and in consolidating the binary division
+    between the Jews and their others. The paper reconstructs the discursive
+    conditions and form of reasoning underlying Paul's novel rendering of ethnê
+    as generalized-individualized others. This calls for a thorough revision of
+    the recent surge of interest in the teaching of Paul by historians,
+    political-theologians and philosophers who all presuppose the Jew-Gentile
+    division as a given.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rosen-Zvi
+      given: Ishay
+    - family: Ophir
+      given: Adi
+  citation-key: rosen-zviPaulInventionGentiles2015
+  container-title: Jewish Quarterly Review
+  DOI: 10.1353/jqr.2015.0001
+  ISSN: 1553-0604
+  issue: '1'
+  issued:
+    - year: 2015
+  page: 1-41
+  publisher: University of Pennsylvania Press
+  source: Project MUSE
+  title: Paul and the Invention of the Gentiles
+  type: article-journal
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/56/article/573880
+  volume: '105'
+
+- id: rustowGaonGaonate2010
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Rustow
+      given: Marina
+  citation-key: rustowGaonGaonate2010
+  container-title: Encyclopedia of Jews in the Islamic World
+  editor:
+    - family: Stillman
+      given: Norman A.
+  event-place: Leiden
+  issued:
+    - year: 2010
+      month: 10
+      day: 1
+  language: en
+  publisher: Brill
+  publisher-place: Leiden
+  source: referenceworks-brillonline-com.proxy.ub.uni-frankfurt.de
+  title: Gaon and Gaonate
+  type: chapter
+  URL: >-
+    http://dx.doi.org.proxy.ub.uni-frankfurt.de/10.1163/1878-9781_ejiw_COM_0008280
 
 - id: salvesenConvergenceWaysJudaizing2003
   author:
@@ -1996,6 +2452,22 @@ references:
   translator:
     - family: Schäfer
       given: Barbara
+  type: book
+
+- id: schaferBarKokhbaAufstandStudienZweiten1981
+  author:
+    - family: Schäfer
+      given: Peter
+  call-number: 21/NY 4300 S294 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: schaferBarKokhbaAufstandStudienZweiten1981
+  collection-title: Texte und Studien zum antiken Judentum
+  ISBN: 978-3-16-144122-6
+  issued:
+    - year: 1981
+  publisher: Mohr
+  source: UBFFM BzG
+  title: 'Der Bar-Kokhba-Aufstand : Studien zum zweiten jüdischen Krieg gegen Rom'
+  title-short: Der Bar-Kokhba-Aufstand
   type: book
 
 - id: schaferJesusTalmud2007
@@ -2249,6 +2721,37 @@ references:
   URL: >-
     https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-companion-to-the-talmud-and-rabbinic-literature/political-geography-of-rabbinic-texts/BB835D094EFADC8F100B061D8A7B7C6A
 
+- id: sheinfeldBarKokhbaLeadership2019
+  abstract: >-
+    Most of what we know about Bar Kokhba derives from rabbinic and patristic
+    literature, which portrays him as a failed messiah figure. However, the
+    letters and coins found from the revolt itself suggest that Bar Kokhba did
+    not claim to be a messiah figure, but instead was an authoritarian ruler who
+    attempted to control the religious, economic, and military matters of his
+    followers.
+  accessed:
+    - year: 2023
+      month: 4
+      day: 10
+  author:
+    - family: Sheinfeld
+      given: Shayna
+  citation-key: sheinfeldBarKokhbaLeadership2019
+  container-title: Religion Compass
+  DOI: 10.1111/rec3.12320
+  ISSN: 1749-8171
+  issue: '7'
+  issued:
+    - year: 2019
+  language: en
+  page: e12320
+  source: Wiley Online Library
+  title: Bar Kokhba and leadership as seen through the revolt
+  type: article-journal
+  URL: >-
+    https://compass-onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/full/10.1111/rec3.12320
+  volume: '13'
+
 - id: solomonJudaismVeryShort2014a
   abstract: >-
     Outlines the basics of practical Judaism and considers how Judaism has
@@ -2481,6 +2984,32 @@ references:
   title: An introduction to early Judaism
   type: book
   URL: http://www.gbv.de/dms/bowker/toc/9780802846419.pdf
+
+- id: vanrompayJudaismSyriacContacts2018
+  author:
+    - family: Van Rompay
+      given: Lucas
+  citation-key: vanrompayJudaismSyriacContacts2018
+  container-title: Gorgias Encyclopedic Dictionary of the Syriac Heritage
+  edition: online
+  editor:
+    - family: Brock
+      given: Sebastian P.
+    - family: Butts
+      given: Aaron M.
+    - family: Kiraz
+      given: George A.
+    - family: Van Rompay
+      given: Lucas
+  event-place: Piscataway, N.J.
+  issued:
+    - year: 2018
+  language: en
+  publisher: Beth Mardutho
+  publisher-place: Piscataway, N.J.
+  title: Judaism, Syriac contacts with
+  type: chapter
+  URL: https://gedsh.bethmardutho.org/entry/Judaism-Syriac-contacts-with
 
 - id: vogelStreitNichtNur2018
   abstract: >-
