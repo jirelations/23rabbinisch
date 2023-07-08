@@ -34,3 +34,15 @@ Die Entstehung des rabbinischen Judentums im ersten Jahrtausend nach der Tempelz
 - Stellen Piyuttim (Synagogenlieder) eine eindeutig jüdische Form dar? Haben sie inhaltliche oder literarische Gemeinsamkeiten mit anderen aramäischen Formen? 
 
 ### 4. Mishnah
+
+- Lernziel: Explain how the Mishnah illuminates rabbinic attempts to define communal boundaries.
+- Was ist die Mischna?
+  - mündliche Tora/Oralität: diskutiert wird, wie man an die 613 Gebote und Verbote der Torah einhält
+  - Wann wurde sie niedergeschrieben? 
+  - Beziehung zu anderen rabbinischen Texten? (Tosefta, Gemara)
+  - Organisation (Sedarim, Traktate)
+- Wie ist die Mischna eine Quelle für die Rabbanisierung von Judentum?
+  - Unter wem wurde es in der Mischna diskutiert? (Wer hat die Autorität?)
+  - Wie ist die Bildung einer rabbinischen Gemeinschaft dadurch sichtbar?
+    - durch die Inhalte der Mischna?
+    - durch die Aktivitäten rund um Mischna-Sammlung und -Lehre? 
